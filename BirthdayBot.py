@@ -245,4 +245,4 @@ async def test_birthday(interaction: discord.Interaction, member: discord.Member
 
     await interaction.response.send_message(f"Birthday message sent for {member.name} and role assigned.", ephemeral=True)
 
-bot.run('MTI2MDY5NTI5MTY5MTEzOTE2Mw.GNdNyB.Dq5YhZKFCzun2M5RpSnz8jqRyLI8N26rbdKe8M')
+bot.run('TOKEN')
